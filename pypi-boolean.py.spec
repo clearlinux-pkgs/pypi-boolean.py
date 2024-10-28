@@ -7,7 +7,7 @@
 #
 Name     : pypi-boolean.py
 Version  : 4.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/a2/d9/b6e56a303d221fc0bdff2c775e4eef7fedd58194aa5a96fa89fb71634cc9/boolean.py-4.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/a2/d9/b6e56a303d221fc0bdff2c775e4eef7fedd58194aa5a96fa89fb71634cc9/boolean.py-4.0.tar.gz
 Summary  : Define boolean algebras, create and parse boolean expressions and create custom boolean DSL.
