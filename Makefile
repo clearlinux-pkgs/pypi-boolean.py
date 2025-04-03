@@ -1,5 +1,5 @@
 PKG_NAME := pypi-boolean.py
-URL = https://files.pythonhosted.org/packages/a2/d9/b6e56a303d221fc0bdff2c775e4eef7fedd58194aa5a96fa89fb71634cc9/boolean.py-4.0.tar.gz
+URL = https://files.pythonhosted.org/packages/c4/cf/85379f13b76f3a69bca86b60237978af17d6aa0bc5998978c3b8cf05abb2/boolean_py-5.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
